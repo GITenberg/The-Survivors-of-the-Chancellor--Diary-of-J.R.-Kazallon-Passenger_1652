@@ -1,0 +1,37 @@
+_repo: The-Survivors-of-the-Chancellor--Diary-of-J.R.-Kazallon-Passenger_1652
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriel
+    - Verne, Jules Gabriël
+    - Verne, Júlio
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+description: "Translation of Le Chancellor\r\nSee also our other version, Etext #1698,\
+  \ and the computer-read audio version, #8989"
+gutenberg_issued: '1999-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1652'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ship captains -- Fiction'
+- !lcsh 'Sea stories'
+- !lcc 'PQ'
+- !lcsh 'Cargo ships -- Fiction'
+- !lcsh 'Shipwreck victims -- Fiction'
+- !lcsh 'Shipwrecks -- Fiction'
+- GITenberg
+title: 'The Survivors of the Chancellor: Diary of J.R. Kazallon, Passenger'
+url: http://www.gutenberg.org/ebooks/1652
